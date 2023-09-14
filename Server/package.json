@@ -1,0 +1,25 @@
+{
+  "name": "graphql-practice",
+  "version": "1.0.0",
+  "description": "app made with a static server which returns static data to test and practice GraphQL API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node index.js"
+  },
+  "keywords": [
+    "GraphQL",
+    "Server",
+    "practice",
+    "Rest",
+    "Api"
+  ],
+  "author": "Aqib Shah",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/client": "^3.8.3",
+    "apollo-server": "^3.12.1",
+    "graphql": "^16.8.0",
+    "uuid": "^9.0.1"
+  }
+}

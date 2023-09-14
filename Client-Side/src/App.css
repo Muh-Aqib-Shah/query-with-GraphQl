@@ -1,0 +1,39 @@
+.App {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+input{
+  width: 300px;
+  height:40px;
+  border-radius: 2px 2px 2px 2px;
+  border: 3px solid black;
+}
+.qury-data{
+  width: 400px;
+  height: 100px;
+  margin: 20px 0;
+  border: 4px solid black;
+  background-color: aqua;
+border-radius: 30px;
+}
+.submit-btn{
+  width: 100px;
+  height: 20px;
+  border-radius: 2px 2px 2px 2px;
+  margin-left: 2%;
+}
+.data-getter{
+  margin: 20px 0;
+  width: 120px;
+  height: 40px;
+  background-color: purple;
+}
+.data-div{
+  width: 500px;
+  height: 350px;
+  background-color: antiquewhite;
+  border: 3px solid black;
+  border-radius: 3%;
+}
